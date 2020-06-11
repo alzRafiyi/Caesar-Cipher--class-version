@@ -1,4 +1,4 @@
-# Case-Study-05-Caesar-Cipher-class-version-
+# Case-Study-05-Caesar-Cipher-class-version
 
 A **cipher** is an algorithm (a secret code) for performing encryption (and the reverse, decryption). The idea of the **Caesar Cipher** is to pick an integer and shift every letter of your message by that integer. 
 
